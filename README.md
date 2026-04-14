@@ -17,3 +17,7 @@ Built using AI-Assisted (Cursor AI) Vibe Coding, DownloadLedger is a Windows bas
 2. Install with your preferences: In the setup wizard, choose install location, optionally check Create desktop icon, then click Install.
 3. Run the app: Click Launch DownloadLedger at the end, or open it later from the desktop icon / Start Menu.
 
+# If you find a bug, report it in the Issues tab.
+
+# Troubleshooting
+Click 'More Info' and then 'Run Anyway'.
