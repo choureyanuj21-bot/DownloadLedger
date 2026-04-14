@@ -6,7 +6,7 @@ Built using AI-Assisted (Cursor AI) Vibe Coding, DownloadLedger is a Windows bas
 # Key Features:
 1. Logs all downloads (File Name, File Type, Date and Time of Download and Deletion)
 2. Tracks deletion status (purged vs deleted/missing)
-3. Sorts by least to most recently donloaded.
+3. Sorts by most to least recently downloaded.
 
 # Security and Privacy
 1. 100% Local: Data never leaves your machine.
